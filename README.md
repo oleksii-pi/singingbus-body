@@ -1,7 +1,7 @@
 # singingbus-body
 3d model of singing bus toy, made with Blender
 
-https://studio.youtube.com/video/--qNfNTJSJs
+[https://studio.youtube.com/video/--qNfNTJSJs](https://www.youtube.com/watch?v=--qNfNTJSJs)
 
 https://github.com/AlekseyPi/singingbus
 
